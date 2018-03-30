@@ -236,7 +236,8 @@ body {
   }
   .timeline .swiper-slide .timeline-year {
     margin-bottom: 0;
-    font-size: 32px;
+    font-size: 50px;
+    font-weight: 1000;
   }
   .timeline .swiper-slide .timeline-title {
     font-size: 46px;
